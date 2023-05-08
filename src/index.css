@@ -1,0 +1,73 @@
+.font{
+  font-family: "Cairo",sans-serif;
+  font-size: 20px;
+}
+.color-body{
+  background-color: #f8f8f8;
+}
+.rectangel{
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 1px 4px 4px 1px rgb(85,85,85, 0.25);
+}
+.dates-count{
+  color: #555555;
+  font-weight: 600;
+margin-bottom: 20px;
+
+}
+.images{
+  height: 70px;
+  width: 70px;
+  border-radius: 15px;
+  position: relative;
+  top: 10px;
+}
+.hed{
+    border-radius: 15px;
+  background-color: aqua;
+  text-align: center;
+ margin-bottom: 20px;
+}
+.butt{
+  background-color: aqua;
+  border-radius: 15px;
+  color: black;
+  margin: 10px;
+  border: none;
+  padding: 10px;
+  transition: 0.5s;
+}
+.butt:hover{
+  letter-spacing: 0.5px;
+  background-color: rgb(5, 223, 223);
+}
+.num{
+  font-weight: bolder;
+}
+.all{
+  display: flex;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.con{
+  margin-left: 20px;
+}
+.tname{
+  margin-left: 20px;
+font-weight: bold;
+}
+
+.numid{
+  font-weight: 800;
+  margin-right: 10px;
+  position: relative;
+  top: 20px;
+
+}
+.nodata{
+  text-align: center;
+position: relative;
+  top:15px;
+  height: 100px;
+}
